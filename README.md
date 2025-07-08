@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- 👤 AVATAR -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YoussefMo-22/YoussefMo-22/main/assets/avatar.png" width="460" />
+  <img src="https://raw.githubusercontent.com/YoussefMo-22/YoussefMo-22/main/assets/avatar.png" width="800" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YoussefMo-22&show_icons=true&theme=tokyonight" width="400"/></p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=YoussefMo-22&theme=tokyonight" width="400"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMo-22&layout=compact&theme=tokyonight" width="400"/></p>
-</p>
+
 ---
 
 ### 📚 Certificates
@@ -71,12 +71,10 @@ Here are some ideas to get you started:
 
 ### 🏆 Projects & Highlights
 
-- 🎓 [EduVerse](#): E-learning platform with dashboard, quizzes, lessons  
-- 🏛️ [Coptic Museum](#): Virtual museum, 3D artifacts, booking & history  
-- 📽️ [Movies App](#): Trending movies with API & React features  
+- 🎓 [EduVerse](https://github.com/saeedmhmoud100/E-Learning-platform-DPPEI-Project): E-learning platform with dashboard, quizzes, lessons  
+- 🏛️ [Coptic Museum](https://github.com/YoussefMo-22/Coptic-Museum-frontend): Virtual museum, 3D artifacts, booking & history  
+- 📽️ [Movies App](https://github.com/YoussefMo-22/movies-app): Trending movies with API & React features  
 - 🧠 Real-time quiz engine & admin dashboard  
-
----
 
 ---
 
