@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 
 ### 🌗 Analytics Preview
 <p align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YoussefMo-22&show_icons=true&theme=tokyonight" width="400"/></p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=YoussefMo-22&theme=tokyonight" width="400"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMo-22&layout=compact&theme=tokyonight" width="400"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YoussefMo-22&show_icons=true&theme=tokyonight" width="800"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=YoussefMo-22&theme=tokyonight" width="800"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMo-22&layout=compact&theme=tokyonight" width="800"/></p>
 
 ---
 
