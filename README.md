@@ -85,5 +85,5 @@ timeline
     title My Dev Journey
     2022 : Started with HTML, CSS, and JS
     2023 : React, Bootstrap, First Projects
-    2024 Q1 : Museum Platform + EduVerse
-    2024 Q3 : Learning Next.js & BI
+    2024 : Museum Platform + EduVerse
+    2025 Q3 : Learning Next.js & BI
